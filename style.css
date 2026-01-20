@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: #d7c906;
+    font-family: monospace;
+    text-align: center;
+}
+
+canvas {
+    background: black;
+}
+
+#aiMessage {
+    margin-top: 10px;
+    height: 20px;
+}
+body {
+  user-select: none;
+}
