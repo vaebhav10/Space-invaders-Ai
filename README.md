@@ -74,7 +74,7 @@ No external libraries required.
 ## 🎥 Demo Video
 
 Demo video explaining gameplay and AI logic:  
-(Insert your Google Drive video link here)
+[(https://drive.google.com/file/d/17s5-HIJ2qHCsGBceoHwUmn9yhqZWtwjh/view?usp=drive_link)]
 
 ---
 
