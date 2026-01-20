@@ -8,57 +8,53 @@ Instead of fixed alien movement patterns, the invaders analyze player behavior i
 ## 🎮 Gameplay
 
 - Move the player ship using **Left** and **Right Arrow Keys**
-- Shoot bullets using the **Spacebar**
+- Shoot using the **Spacebar**
 - Aliens descend in waves and shoot back
 - Survive until the timer ends to win
 - If an alien reaches the ground or the player is hit — game over
-- Press **R** to restart after game ends
+- Press **R** to restart after the game ends
 
 ---
 
-## 🤖 AI Feature
+## 🤖 Adaptive AI System
 
-The key innovation in this project is the **adaptive enemy AI system**.
+The core innovation in this project is the **adaptive enemy AI system**, which makes invader behavior responsive to the player's play style.
 
-## AI Approach:
+### AI Approach
 
-Lightweight rule-based behavior modeling
-Real-time telemetry collection
-Periodic decision cycles
-Adaptive formation control
-Difficulty scaling per wave
+- Lightweight rule-based behavior modeling  
+- Real-time telemetry collection  
+- Periodic decision cycles  
+- Adaptive formation control  
+- Difficulty scaling per wave  
 
-### How it works:
+### How it works
 
 - The game continuously tracks the player’s position zones (left, center, right)
 - Every few seconds, the AI analyzes player movement statistics
-- Based on the dominant player zone, the alien formation subtly repositions to avoid the player's main firing lane
+- Based on the dominant player zone, the alien formation subtly repositions to avoid the player’s main firing lane
 - This creates a dynamic and reactive challenge instead of predictable enemy behavior
 
-### Why it matters:
+### Why it matters
 
-Classic Space Invaders has fixed movement patterns.  
+Classic Space Invaders uses fixed enemy patterns.  
 This version introduces **behavior-based adaptation**, making each playthrough different.
 
 ---
 
 ## 🧠 Additional Game Mechanics
 
-- Wave-based progression with increasing alien rows
-- Timer-based survival win condition
-- Alien bullets and collision detection
-- Smooth simultaneous movement and firing controls
-- Clean win / lose end screens with restart option
+- Wave-based progression with increasing alien rows  
+- Timer-based survival win condition  
+- Alien bullets and collision detection  
+- Smooth simultaneous movement and firing controls  
+- Clean win / lose end screens with restart option  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5 Canvas
-- JavaScript
-- CSS
-- Basic behavioral AI logic
-
-
-
+- HTML5 Canvas  
+- JavaScript (Vanilla)  
+- CSS  
 
