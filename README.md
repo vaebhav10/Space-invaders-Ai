@@ -59,14 +59,6 @@ This version introduces **behavior-based adaptation**, making each playthrough d
 - CSS
 - Basic behavioral AI logic
 
----
 
-## 🚀 How to Run
-
-1. Clone this repository
-2. Open `index.html` in a browser
-3. Play the game
-
-No external libraries required.
 
 
