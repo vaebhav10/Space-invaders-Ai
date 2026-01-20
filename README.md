@@ -60,11 +60,11 @@ This version introduces **behavior-based adaptation**, making each playthrough d
 
 ## 🎮 Controls
 
-- | Action     | Key   |
-| ---------- | ----- |
-| Move Left  | ←     |
-| Move Right | →     |
-| Shoot      | Space |
+- | Action     | Key   |  
+| ---------- | ----- |  
+| Move Left  | ←     |  
+| Move Right | →     |  
+| Shoot      | Space |  
 | Restart    | R     |
 
 
