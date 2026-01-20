@@ -56,5 +56,15 @@ This version introduces **behavior-based adaptation**, making each playthrough d
 
 - HTML5 Canvas  
 - JavaScript (Vanilla)  
-- CSS  
+- CSS
+
+## 🎮 Controls
+
+- | Action     | Key   |
+| ---------- | ----- |
+| Move Left  | ←     |
+| Move Right | →     |
+| Shoot      | Space |
+| Restart    | R     |
+
 
