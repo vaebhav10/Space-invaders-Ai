@@ -69,14 +69,4 @@ This version introduces **behavior-based adaptation**, making each playthrough d
 
 No external libraries required.
 
----
-
-## 🎥 Demo Video
-
-Demo video explaining gameplay and AI logic:  
-[(https://drive.google.com/file/d/17s5-HIJ2qHCsGBceoHwUmn9yhqZWtwjh/view?usp=drive_link)]
-
----
-
-## 📁 Project Structure
 
